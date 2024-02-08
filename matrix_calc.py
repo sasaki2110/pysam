@@ -5,7 +5,7 @@ import time
 # 行列AおよびBの生成
 #matrix_A = np.random.randn(10000, 20000)
 #matrix_B = np.random.randn(20000, 30000)
-n = 4
+n = 6 # 家だと、7でkilledになった。　この限界の意味って？
 matrix_A = np.random.randn(1000 * n, 2000 * n)
 matrix_B = np.random.randn(2000 * n, 3000 * n)
 
