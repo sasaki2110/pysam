@@ -1,3 +1,7 @@
+# Pandas
+# データ操作ライブラリ
+# CSVのR/Wや、並べ替えとか欠損値の除去 / 補間とかができる
+
 import pandas as pd
 
 #df = pd.read_csv("./california_housing_train.csv", encoding='cp932')

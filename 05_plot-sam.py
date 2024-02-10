@@ -1,3 +1,9 @@
+# Matplotlib
+# グラフの描画
+# コンテナで使うと（guiが無いから）グラフが表示できない。
+# Xサーバー使うとかもあるみたいだけど、めんどくさいからpngに出力する方向で利用
+
+
 #matplotlib inline
 import matplotlib.pyplot as plt
 import pandas as pd

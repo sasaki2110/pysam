@@ -1,3 +1,12 @@
+# Numpy
+# 多次元配列（multidimensional array）を扱うライブラリだと
+# 例えば、
+# 様々な機械学習手法を統一的なインターフェースで利用できる scikit-learn や、
+# ニューラルネットワークの記述・学習を行うためのフレームワークである Chainer は、
+# NumPy に慣れておくことでとても使いやすくなります。
+# ですと。
+
+
 import numpy as np
 
 X = np.array([

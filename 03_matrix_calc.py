@@ -1,3 +1,11 @@
+# CuPy 
+# NumPy と高い互換性を持つ数値計算ライブラリで
+# NVIDIA GPU で実行することで簡単に高速化できる
+# 構築がややこしそうだったから、cupy コンテナを使う事にした。
+#   docker pull cupy/cupy:latest
+
+
+
 import numpy as np
 import cupy as cp
 import time

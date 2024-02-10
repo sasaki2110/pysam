@@ -1,3 +1,7 @@
+# scikit-learn
+# scikit-learn は Python のオープンソース機械学習ライブラリ
+
+
 from sklearn import datasets
 
 # アイリスデータをsklearnから取得
