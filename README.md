@@ -1,4 +1,6 @@
+## ディープラーニングの学習をしているつもりで、
 ## おれは Chainer のチュートリアルをやってたんだ。
+## いや、間違ってないけどな。
 https://tutorials.chainer.org/ja/tutorial.html
 コンテナはrtx3060ti を使うために、compassionate_joliot cupy/cupy
 
