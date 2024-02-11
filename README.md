@@ -1,8 +1,12 @@
-## ディープラーニングの学習をしているつもりで、
-## おれは Chainer のチュートリアルをやってたんだ。
-## いや、間違ってないけどな。
-https://tutorials.chainer.org/ja/tutorial.html
-コンテナはrtx3060ti を使うために、compassionate_joliot cupy/cupy
+## ディープラーニングの学習
+
+   をしているつもりで、おれは Chainer のチュートリアルをやってたんだ。
+   
+   https://tutorials.chainer.org/ja/tutorial.html
+
+   いや、間違ってないけどな。
+   
+   コンテナは GPU を使うために、compassionate_joliot cupy/cupy
 
 ### 8. NumPy 入門        01_nump.py
         多次元配列（multidimensional array）を扱うライブラリだと
@@ -39,13 +43,18 @@ https://tutorials.chainer.org/ja/tutorial.html
         ってことやね。
 
 ## tensorflowも開発環境だけは作っておいて。
-https://github.com/sasaki2110/tensorflow001
-コンテナは　intelligent_curie
-これは今しばらくは塩漬けにしておく
+
+   https://github.com/sasaki2110/tensorflow001
+   
+   コンテナは　intelligent_curie
+   
+   これは今しばらくは塩漬けにしておく
 
 ## で、PyTorchチュートリアル（日本語翻訳版）を始める
-https://yutaroogawa.github.io/pytorch_tutorials_jp/
-コンテナは、compassionate_joliot cupy/cupyに戻る。
+
+   https://yutaroogawa.github.io/pytorch_tutorials_jp/
+   
+   コンテナは、compassionate_joliot cupy/cupyに戻る。
 
 ### [1] テンソル（Tensors） 10_pytorch-tensorsl.py
         まあなんとなくはテンソルも行列だよね。
