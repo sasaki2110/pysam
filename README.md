@@ -1,5 +1,6 @@
 ## おれは Chainer のチュートリアルをやってたんだ。
 https://tutorials.chainer.org/ja/tutorial.html
+コンテナはrtx3060ti を使うために、compassionate_joliot cupy/cupy
 
 ### 8. NumPy 入門        01_nump.py
         多次元配列（multidimensional array）を扱うライブラリだと
@@ -34,3 +35,22 @@ https://tutorials.chainer.org/ja/tutorial.html
             scikit-learn：マシンラーニング（機械学習）
             chainer：ディープラーニング（深層学習）
         ってことやね。
+
+## tensorflowも開発環境だけは作っておいて。
+https://github.com/sasaki2110/tensorflow001
+コンテナは　intelligent_curie
+これは今しばらくは塩漬けにしておく
+
+## で、PyTorchチュートリアル（日本語翻訳版）を始める
+https://yutaroogawa.github.io/pytorch_tutorials_jp/
+
+### [1] テンソル（Tensors） 10_pytorch-tensorsl.py
+        まあなんとなくはテンソルも行列だよね。
+        それもgpuで処理可能と
+
+### [2] データセットとデータローダー（Datasets & DataLoaders） 11_pytorch_dataset.py
+        PyTorchのデータセットは何となく解った。
+        data（テンソル）と、ラベル（int??）の２つの要素を持つタプルを返すと。
+        DataLoaders は、まだよくわからんけど、後から出てくるだろう。
+
+### [3] データ変換（Transforms） 今からこれ
