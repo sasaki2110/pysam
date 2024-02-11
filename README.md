@@ -43,7 +43,7 @@ https://github.com/sasaki2110/tensorflow001
 
 ## で、PyTorchチュートリアル（日本語翻訳版）を始める
 https://yutaroogawa.github.io/pytorch_tutorials_jp/
-compassionate_joliot cupy/cupyに戻る。
+コンテナは、compassionate_joliot cupy/cupyに戻る。
 
 ### [1] テンソル（Tensors） 10_pytorch-tensorsl.py
         まあなんとなくはテンソルも行列だよね。
