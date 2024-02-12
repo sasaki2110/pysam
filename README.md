@@ -56,6 +56,8 @@
    
    コンテナは、compassionate_joliot cupy/cupyに戻る。
 
+## 0. PyTorch入門(Learn the Basics)
+
 ### [1] テンソル（Tensors） 10_pytorch-tensorsl.py
         まあなんとなくはテンソルも行列だよね。
         それもgpuで処理可能と
@@ -74,3 +76,19 @@
         あとで、もう一度戻ってこんなんなぁ・・・・
 
 ### [5] 自動微分（Autograd）13_pytorch_autogrand.py
+        うーん、、、[3] データ構造あたりから、さっぱり解らん・・・・・・・
+        こっちのルートを通ったけど、一旦中断してチュートリアルルートに行くか・・・・
+
+### [6] 最適化（Optimization Loop）
+### [7] モデルの保存・読み込み（Save, Load and Use Model）
+### [8] クイックスタート（Quickstart）
+        一旦パス
+
+## 1. PyTorch基礎(Learning PyTorch)
+
+### [1] PyTorch60分講座: PyTorchとは？（DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ：WHAT IS PYTORCH?）
+        なんか入門と変わらんな。
+        NumpyベースでGPUをサポート
+        Tensors（テンソル：多次元配列）
+
+### [2] PyTorch60分講座: Autograd（自動微分）（AUTOGRAD: AUTOMATIC DIFFERENTIATION）
