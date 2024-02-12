@@ -65,7 +65,12 @@
         data（テンソル）と、ラベル（int??）の２つの要素を持つタプルを返すと。
         DataLoaders は、まだよくわからんけど、後から出てくるだろう。
 
-### [3] データ変換（Transforms） 
+### [3] データ変換（Transforms） 11_pytorch_dataset.py
         さっぱり解らんけど、また必要になったら戻ってくるか。
 
-### [4] モデル構築（Build Model） 日本語解説へ
+### [4] モデル構築（Build Model） 12_pytorch_model.py
+        ここはまじめにじっくりやるか。
+        じっくりやっても、解らんもんは解らんなぁ・・・・
+        あとで、もう一度戻ってこんなんなぁ・・・・
+
+### [5] 自動微分（Autograd）13_pytorch_autogrand.py
