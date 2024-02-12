@@ -92,9 +92,21 @@
         Tensors（テンソル：多次元配列）
 
 ### [2] PyTorch60分講座: Autograd（自動微分）（AUTOGRAD: AUTOMATIC DIFFERENTIATION）
+        21_autograd.py
         ザクっというと、x をインプットとした一連の計算結果をもとに、
         その計算の傾きを勾配ベクトルで求めるってこったな。
         コーディング上のポイントは、tensor生成時に requires_grad=True を指定する。
         計算後にout.backward()でgradを計算し、x.gradで勾配ベクトルを取得する。
 
 ### [3] PyTorch60分講座: ニューラルネットワーク入門（NEURAL NETWORKS）        
+        22_nn.py
+        なんか、nn.Conv2dとはなんぞや？
+        nn.Linearとはなんぞや？
+        勾配ベクトルを計算できる出力ノードとはなんぞや？
+        って感じで止まってしまうなぁ・・・・・
+
+        一旦あきらめて、
+        https://euske.github.io/introdl/index.html
+        をやってみるか。
+
+
